@@ -4,8 +4,8 @@ A referral bot, great for referral-based Discord servers. Currently, the only wa
 
 ## Commands
 
-* Admin = "Administrator" permission
-* Mod = "Manage Roles" permission
+* Admin = "Memefun" permission
+* Mod = "Madam" permission
 
 |Command|Description|Permissions|
 |---|---|--|
